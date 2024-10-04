@@ -4,7 +4,7 @@ Este projeto em C# foi desenvolvido para testar operações feita com o **LINQ (
 
 ## 💻 Descrição
 
-O programa de console `Employee Linq Management System` lê um arquivo CSV contendo informações de funcionários, como nome, e-mail, salário e departamento. Ele utiliza operações LINQ para realizar filtragens, cálculos de soma e agrupamento dos dados com base em diferentes parâmetros, como o departamento e o nome dos funcionários.
+O programa de console **Employee Linq Management System** lê um arquivo CSV contendo informações de funcionários, como nome, e-mail, salário e departamento. Ele utiliza operações LINQ para realizar filtragens, cálculos de soma e agrupamento dos dados com base em diferentes parâmetros, como o departamento e o nome dos funcionários.
 
 ## 🔮 Funcionalidades
 
@@ -15,7 +15,7 @@ O programa de console `Employee Linq Management System` lê um arquivo CSV conte
 
 ## 🛠️ Estrutura do Código
 
-- **Classe `Employee`**: Representa um funcionário, contendo as propriedades do tipo *string* `Name`, `Email` e `Salary`, e `Department` do tipo *decimals*.
+- **Classe `Employee`**: Representa um funcionário, contendo as propriedades do tipo *string* `Name`, `Email` e `Department` e a propriedade `Salary` do tipo *decimal*.
 - **Classe `Program`**: Classe principal que contém a lógica de leitura do arquivo CSV, processamento dos dados com LINQ, e exibição das informações no console.
 
 ## 📂 Estrutura do CSV
